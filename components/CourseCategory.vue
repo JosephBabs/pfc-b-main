@@ -2,7 +2,7 @@
   <section class="thm-gray-bg course-category-one" id="composantes" >
     <div class="container-fluid text-center" style="">
       <div class="block-title text-center">
-        <h2 class="block-title__title">Composantes du PFC-B</h2>
+        <h2 class="block-title__title">Composantes du PFC BENIN</h2>
         <!-- /.block-title__title -->
       </div>
       <!-- /.block-title -->

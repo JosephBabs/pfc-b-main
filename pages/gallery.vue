@@ -15,7 +15,7 @@
     components: {Footer, NavOne, PageHeader, Gallery},
     head(){
       return {
-        title: "PFC-B | Gallery"
+        title: "PFC BENIN | Gallery"
       }
     }
   }

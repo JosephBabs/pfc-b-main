@@ -15,7 +15,7 @@
     components: {NewsDetails, Footer, NavOne, PageHeader},
     head(){
       return {
-        title: "PFC-B | News Details"
+        title: "PFC BENIN | News Details"
       }
     }
   }

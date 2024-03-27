@@ -4,6 +4,8 @@
     <!-- <BannerOne /> -->
     
     <HeaderHome title="Présentation du Projet Forêts Classées Bénin (PFC – B)" />
+    
+    
     <AboutTwo />
     <CourseOne />
     <!-- <VideoTwo />
@@ -16,6 +18,9 @@
 </template>
 
 <script>
+
+  import ImageSlider from '~/components/ImageSlider.vue';
+
   import NavOne from "../components/NavOne";
   import BannerOne from "../components/BannerOne";
   import HeaderHome from "../components/HeaderHome";
@@ -37,6 +42,7 @@
       CallToActionFour,
       BlogCarousel,
       HeaderHome,
+      ImageSlider,
       ClientsLogoTwo,
       CallToActionThree,
       CourseCategory,

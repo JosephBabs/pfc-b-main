@@ -27,7 +27,7 @@
                   <img src="/assets/images/slider-1-person-2.png" class="banner-one__person" alt="">
                   <div class="row no-gutters">
                       <div class="col-xl-12">
-                          <h3 class="banner-one__title banner-one__light-color">PFC-B<br>
+                          <h3 class="banner-one__title banner-one__light-color">PFC BENIN<br>
                               Teach You</h3><!-- /.banner-one__title -->
                           <p class="banner-one__tag-line">are you ready to learn?</p><!-- /.banner-one__tag-line -->
                           <a href="#" class="thm-btn banner-one__btn">Learn More</a>

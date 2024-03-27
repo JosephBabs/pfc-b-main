@@ -15,7 +15,7 @@
     components: {Footer, NavOne, PageHeader, News},
     head(){
       return {
-        title: "PFC-B | Actualités"
+        title: "PFC BENIN | Actualités"
       }
     }
   }

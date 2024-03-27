@@ -18,7 +18,7 @@
     components: {TeamOne, BecomeTeacher, Footer, NavOne, PageHeader},
     head(){
       return {
-        title: "PFC-B | Become Teacher"
+        title: "PFC BENIN | Become Teacher"
       }
     }
   }

@@ -13,8 +13,8 @@
                                     <ul class="list-unstyled footer-widget__link-list">
                                         <li><nuxt-link to="/about">A propos </nuxt-link></li>
                                         <li><nuxt-link to="/obj">Objectifs et indicateurs</nuxt-link></li>
-                                        <li><nuxt-link to="/composante">Composantes du PFC-B</nuxt-link></li>
-                                        <li><nuxt-link to="/beneficiaires">Bénéficiaires du PFC-B</nuxt-link></li>
+                                        <li><nuxt-link to="/composante">Composantes du PFC BENIN</nuxt-link></li>
+                                        <li><nuxt-link to="/beneficiaires">Bénéficiaires du PFC BENIN</nuxt-link></li>
 
                                         <li><nuxt-link to="/gallery">Galerie</nuxt-link></li>
 
@@ -87,8 +87,8 @@
             </div><!-- /.site-footer__upper -->
             <div class="site-footer__bottom">
                 <div class="container">
-                    <p class="site-footer__copy">&copy; Copyright {{ new Date().getFullYear() }} | Site réalisé par<a
-                            href="#"> La </a> | +229 00 00 00 00</p>
+                    <p class="site-footer__copy">&copy; Copyright {{ new Date().getFullYear() }} <a
+                            href="#"> </a> </p>
                     <div class="site-footer__social">
 
                     </div><!-- /.site-footer__social -->

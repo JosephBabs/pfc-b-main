@@ -33,7 +33,7 @@
     },
     head(){
       return {
-        title: "PFC-B | A propos de lq PFC-B"
+        title: "PFC BENIN | A propos de lq PFC BENIN"
       }
     }
   }

@@ -17,7 +17,7 @@
     components: {Footer, CallToAction, PricingPage, NavOne, PageHeader},
     head(){
       return {
-        title: "PFC-B | Pricing"
+        title: "PFC BENIN | Pricing"
       }
     }
   }

@@ -12,7 +12,7 @@
     },
     head(){
       return {
-        title: "PFC-B - Projet Forêts Classées du Bénin"
+        title: "PFC BENIN - Projet Forêts Classées du Bénin"
       }
     },
     mounted () {

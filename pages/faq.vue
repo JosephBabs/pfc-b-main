@@ -15,7 +15,7 @@
     components: {Faq, Footer, NavOne, PageHeader},
     head(){
       return {
-        title: "PFC-B | FAQ"
+        title: "PFC BENIN | FAQ"
       }
     }
   }

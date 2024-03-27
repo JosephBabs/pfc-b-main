@@ -19,24 +19,36 @@
       <nav
         class="navbar navbar-expand-lg navbar-light header-navigation stricky"
       >
+      
+      
         <div class="container clearfix">
           <!-- Brand and toggle get grouped for better mobile display -->
           <div class="logo-box clearfix">
-            <a class="navbar-brand" href="/">
+        <a class="navbar-brand" href="/">
               <img
                 src="/assets/images/logo-dark.png"
+                class="main-logo"
+                width="128"
+                alt="Logo"
+              />
+            </a>
+            <a class="navbar-brand" href="/">
+              <img
+                src="/assets/images/logo-bm.png"
                 class="main-logo"
                 width="128"
                 alt=""
               />
             </a>
+      </div>
             <!-- /.header__social -->
             <button class="menu-toggler" data-target=".main-navigation">
               <span class="kipso-icon-menu"></span>
             </button>
-          </div>
           <!-- /.logo-box -->
           <!-- Collect the nav links, forms, and other content for toggling -->
+
+          
           <div class="main-navigation">
             <ul class="navigation-box">
               <li class="current">
@@ -45,12 +57,10 @@
               <li><nuxt-link to="/apropos">A propos </nuxt-link></li>
               <li><nuxt-link to="/#objectives-de-la-pcb">Objectifs et indicateurs</nuxt-link></li>
               <li>
-                <nuxt-link to="/#composantes">Composantes du PFC-B</nuxt-link>
+                <nuxt-link to="/#composantes">Composantes</nuxt-link>
               </li>
               <li>
-                <nuxt-link to="/#beneficiaires"
-                  >Bénéficiaires du PFC-B</nuxt-link
-                >
+                <nuxt-link to="/#beneficiaires">Bénéficiaires</nuxt-link>
               </li>
 
               <li>

@@ -46,7 +46,7 @@
     },
     head(){
       return{
-        title: "PFC-B | Home 3"
+        title: "PFC BENIN | Home 3"
       }
     }
   }

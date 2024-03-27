@@ -18,7 +18,7 @@
                   <!-- <p class="about-one__review-count counter">88750</p> -->
                   <!-- /.about-one__review-count -->
                   <div class="about-one__review-stars">
-                      <!-- /.fa fa-star -->PFC-B
+                      <!-- /.fa fa-star -->PFC BENIN
                   </div><!-- /.about-one__stars -->
                   <p class="about-one__review-text"></p><!-- /.about-one__review-text -->
               </div><!-- /.about-one__review -->

@@ -15,7 +15,7 @@
     components: {Contact, Footer, NavOne, PageHeader},
     head(){
       return {
-        title: "PFC-B | Contact"
+        title: "PFC BENIN | Contact"
       }
     }
   }

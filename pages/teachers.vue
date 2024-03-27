@@ -15,7 +15,7 @@
     components: {Teachers, Footer, NavOne, PageHeader},
     head(){
       return {
-        title: "PFC-B | Teachers"
+        title: "PFC BENIN | Teachers"
       }
     }
   }

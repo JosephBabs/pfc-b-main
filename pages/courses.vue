@@ -15,7 +15,7 @@
     components: {Course, Footer, NavOne, PageHeader},
     head(){
       return {
-        title: "PFC-B | Course"
+        title: "PFC BENIN | Course"
       }
     }
   }
