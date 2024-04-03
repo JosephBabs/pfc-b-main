@@ -95,10 +95,10 @@ h1 {
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    font-size: 4rem;
+    font-size: 4rem; 
     z-index: 1;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-}
+} 
 
 .prev,
 .next {

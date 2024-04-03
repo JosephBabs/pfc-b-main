@@ -10,7 +10,7 @@
     <CourseOne />
     <!-- <VideoTwo />
     <CountdownOne /> -->
-    <CourseCategory />
+    <CourseCategory /> 
     <CallToActionThree />
     <Subscribe />
     <Footer />
