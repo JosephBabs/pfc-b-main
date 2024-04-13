@@ -1,7 +1,12 @@
-# refix
+# UIGP
 
 > Projet Forêts classées Bénin(Site web) UIGP
 
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Devs: Back: Wilfried Hounton And Front: Babatounde Joseph
+       
+      
 ## Build Setup
 
 ``` bash
@@ -18,8 +23,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-
-Devs: Back: Wilfried Hounton
-      Front: Babatounde Joseph
