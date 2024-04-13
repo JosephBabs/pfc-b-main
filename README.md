@@ -1,6 +1,6 @@
 # refix
 
-> Refix - Vue Nuxt Fridge &amp; Freezer Repair Company Template
+> Projet Forêts classées Bénin(Site web) UIGP
 
 ## Build Setup
 
@@ -20,3 +20,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+Devs: Back: Wilfried Hounton
+      Front: Babatounde Joseph
